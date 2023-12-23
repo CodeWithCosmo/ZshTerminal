@@ -14,7 +14,9 @@ For the scripts to work, I think these are the bare minimum requirements.
 ```bash
 # Update your software repositories.
 sudo apt-get update && apt-get upgrade -y
+```
 
+```bash
 # Install Git & Vim.
 sudo apt-get install git vim -y
 ```
@@ -34,6 +36,8 @@ the terminal profile theme.
 ```
 
 ### Zsh, OhMyZsh
+
+Now, we have to install Zsh terminal and OhMyZsh.
 
 ```bash
 ./Terminal.sh
