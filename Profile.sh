@@ -9,10 +9,10 @@ set -eux pipefail
 sudo cp configs/.zshrc ~/.zshrc
 
 # Color Theme
-dconf load /org/gnome/terminal/legacy/profiles:/:fb358fc9-49ea-4252-ad34-1d25c649e633/ < configs/terminal_profile.dconf
+dconf load /org/gnome/terminal/legacy/profiles:/:26393dd5-118b-4e78-9b4d-2d58c0acf6b6/ < configs/terminal_profile.dconf
 
 # Add it to the default list in the terminal
-add_list_id=fb358fc9-49ea-4252-ad34-1d25c649e633
+add_list_id=26393dd5-118b-4e78-9b4d-2d58c0acf6b6
 old_list=$(dconf read /org/gnome/terminal/legacy/profiles:/list | tr -d "]")
 
 if [ -z "$old_list" ]
