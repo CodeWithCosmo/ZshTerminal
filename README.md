@@ -7,7 +7,7 @@ This is my profile for UNIX(Linux) terminals.
 
 #### `These commands were last tested on Jan 2024 on Debian 12.`
 
-# Update software repositories
+### Update software repositories
 
 ```bash
 sudo apt-get update && apt-get upgrade -y
