@@ -5,7 +5,7 @@
 
 This is my profile for UNIX(Linux) terminals.
 
-#### `These commands were last tested on Jan 2024 on Debian 12.`
+#### `These commands were last tested on Jan 2024 on Ubuntu 22.04.`
 
 ### Update software repositories
 
