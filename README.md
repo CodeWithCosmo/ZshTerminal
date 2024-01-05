@@ -7,12 +7,9 @@ This is my profile for UNIX(Linux) terminals.
 
 #### `These commands were last tested on Jan 2024 on Debian 12.`
 
-# Prerequisites
-
-For the scripts to work, I think these are the bare minimum requirements.
+# Update software repositories
 
 ```bash
-# Update your software repositories.
 sudo apt-get update && apt-get upgrade -y
 ```
 
