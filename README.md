@@ -38,6 +38,7 @@ to be the Powerline one we installed earlier (required for the theme to display 
 If it looks funky after this command, then you might need to wait until the theme is updated with a
 Powerline font (the next step), and may need to also restart your machine.
 
+#### `After this, you have to restart your machine.`
 
 ### Display the profile
 
