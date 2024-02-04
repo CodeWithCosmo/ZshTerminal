@@ -53,4 +53,5 @@ neofetch
 After installation of Zsh terminal, Updating Zsh is also important. Therefore, to update Zsh run the following command.
 
 ```bash
-sudo omz update```
+sudo omz update
+```
